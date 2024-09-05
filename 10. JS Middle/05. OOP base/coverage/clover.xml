@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680805045023" clover="3.2.0">
+  <project timestamp="1680805045023" name="All files">
+    <metrics statements="37" coveredstatements="37" conditionals="11" coveredconditionals="11" methods="9" coveredmethods="9" elements="57" coveredelements="57" complexity="0" loc="37" ncloc="37" packages="1" files="7" classes="7"/>
+    <file name="app.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/app.js">
+      <metrics statements="19" coveredstatements="19" conditionals="11" coveredconditionals="11" methods="3" coveredmethods="3"/>
+      <line num="3" count="23" type="stmt"/>
+      <line num="5" count="23" type="cond" truecount="5" falsecount="0"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="20" type="stmt"/>
+      <line num="11" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="19" type="stmt"/>
+      <line num="17" count="19" type="stmt"/>
+      <line num="18" count="19" type="stmt"/>
+      <line num="19" count="19" type="stmt"/>
+      <line num="20" count="19" type="stmt"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="35" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="bowerman.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/bowerman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="deamon.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/deamon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="magician.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/magician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="swordsman.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/swordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="undead.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/undead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="zombie.js" path="/Users/kuznetsovd/Desktop/git/js-classes/src/js/zombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
